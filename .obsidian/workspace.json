@@ -24,6 +24,7 @@
           {
             "id": "7bb0bbbc6b3eda70",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
@@ -38,8 +39,37 @@
                   ]
                 }
               },
+              "pinned": true,
               "icon": "lucide-trello",
               "title": "AI-workflow"
+            }
+          },
+          {
+            "id": "f2a1e5e594e6a647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Quick-Note/번역 스킬 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "번역 스킬 만들기"
+            }
+          },
+          {
+            "id": "db1506f7a397f27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Quick-Note/daily-planner.md change.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily-planner.md change"
             }
           },
           {
@@ -55,9 +85,23 @@
               "icon": "lucide-file",
               "title": "AI workflow - planning"
             }
+          },
+          {
+            "id": "8dd8141f8815043a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://127.0.0.1:8080/",
+                "title": "opencode@Thes-MacBook-Pro.local",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "opencode@Thes-MacBook-Pro.local"
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -110,6 +154,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "77ee7d0e8b8034e3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
             }
           }
         ]
@@ -260,12 +314,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7bb0bbbc6b3eda70",
+  "active": "8dd8141f8815043a",
   "lastOpenFiles": [
-    "4-Quick-Note/AI workflow - planning.md",
-    "AI-workflow.md",
-    "3-Permanent-Note/His Story.canvas",
+    "1-4-Fleeting-Archieve/KG-Changelog/2026-02-23.md",
+    "4-Quick-Note/번역 스킬 만들기.md",
     "3-Permanent-Note/KJB.pdf",
+    "AI-workflow.md",
+    "4-Quick-Note/AI workflow - planning.md",
+    "daily-thinker.md",
+    "4-Quick-Note/Notion AI.md",
+    "4-Quick-Note/daily-planner.md change.md",
+    "1-4-Fleeting-Archieve/template/{{date}}-{{title}}.md",
+    "1-4-Fleeting-Archieve/template",
+    "4-Quick-Note/Skill 스킬 병합, 제거, 생성하기 - 이후 Agent Subagent markdown 변경하기.md",
+    "4-Quick-Note/First Principles thinking = atomic task decomposition.md",
+    "PARA/1-4-Fleeting-Archives/KG-Changelog/2026-02-23.md",
+    "3-Permanent-Note/His Story.canvas",
     "4-Quick-Note/Untitled.base",
     "2-Literature-Note/Alex Hormozi's Sales Strategy.md",
     "2-Literature-Note/CBT_Market Landscape & product roadmap.md",
@@ -282,23 +346,14 @@
     "1-3-Fleeting-Resource/PKM",
     "1-2-Fleeting-Area/Personal Growth/2025 Recap & 2026 Replan.md",
     "1-2-Fleeting-Area/Faith/02.08 기도.md",
-    "4-Quick-Note/Skill 스킬 병합, 제거, 생성하기 - 이후 Agent Subagent markdown 변경하기.md",
     "Skill 스킬 병합, 제거, 생성하기 - 이후 Agent Subagent markdown 변경하기.md",
     "1-2-Fleeting-Area/Faith",
     "1-2-Fleeting-Area/Personal Growth",
     "1-1-Fleeting-Project/Untitled",
     "1-4-Fleeting-Archieve/KG-Changelog/2026-02-21.md",
-    "PARA/1-4-Fleeting-Archives/KG-Changelog/2026-02-19.md",
     "PARA/1-4-Fleeting-Archives/KG-Changelog",
     "PARA/1-4-Fleeting-Archives",
-    "PARA",
-    "1-4-Fleeting-Archieve/AI/2026-02-19-agent-workflow-capture.md",
-    "1-4-Fleeting-Archieve/AI/2026-02-19-BD-Action-Plan.md",
-    "4-Quick-Note/실행에 관하여.md",
     "Pasted image 20260219231806.png",
-    "4-Quick-Note/Notion vs Obsidian Dual-Brain Workflow.md",
-    "1-4-Fleeting-Archieve/Context Engineer 효율화.md",
-    "4-Quick-Note/02.08 기도.md",
     "Pasted image 20260218003121.png",
     "Pasted image 20260218003121 2.png",
     "Pasted image 20260218003122 1.png",

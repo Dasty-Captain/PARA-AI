@@ -72,7 +72,7 @@ For each model below, apply this structure:
 ### First Principles Thinking
 - Purpose: Derive solutions from fundamentals instead of analogy.
 - When to use: Assumptions are stale or constraints feel artificial.
-- Core steps: List assumptions -> challenge each assumption -> isolate irreducible facts -> rebuild options from facts -> test.
+- Core steps: List assumptions -> challenge each assumption -> isolate irreducible facts(axioms) -> rebuild options from facts -> test.
 - Common pitfall: Mistaking convention for principle.
 
 ### Minto Pyramid Principle

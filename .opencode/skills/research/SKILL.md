@@ -10,7 +10,7 @@ Use this skill for structured, high-confidence research that supports decisions 
 ## Required Behavior
 
 - Start by clarifying the exact research question and decision use case.
-- Use `@context-engineer` first when prior context may materially affect the answer.
+- This skill is a parallel analysis worker under `@context-engineer`; it does not orchestrate other skills.
 - Build evidence from multiple source types, not a single article or source.
 - Distinguish facts, interpretations, and recommendations explicitly.
 
@@ -25,16 +25,17 @@ If inputs are missing, ask only for the minimum needed values.
 
 ## Workflow
 
-1. Frame the question into sub-questions and testable hypotheses.
-2. Build search strategy with keywords, synonyms, and exclusion terms.
-3. Collect sources across at least three categories where possible:
+1. Receive scope and context packet from `@context-engineer`; produce hypothesis, synthesis, and recommendation stream in parallel with `reference-find` output.
+2. Frame the question into sub-questions and testable hypotheses.
+3. Build search strategy with keywords, synonyms, and exclusion terms.
+4. Collect sources across at least three categories where possible:
    - Primary or official sources
    - High-quality secondary analysis
    - Industry or domain commentary
-4. Evaluate source quality (authority, recency, methodology, bias risk).
-5. Extract claim-level evidence and reconcile contradictions.
-6. Synthesize findings into implications, options, and tradeoffs.
-7. Deliver recommendations with confidence levels and caveats.
+5. Evaluate source quality (authority, recency, methodology, bias risk).
+6. Extract claim-level evidence and reconcile contradictions.
+7. Synthesize findings into implications, options, and tradeoffs.
+8. Deliver recommendations with confidence levels and caveats.
 
 ## Output Format
 

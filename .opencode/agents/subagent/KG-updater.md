@@ -158,7 +158,7 @@ Retrospection Output:
 2. Update Project node: agent system design -> complete
 3. Update Task "API test" status: in-progress
 4. Create relation: Insight -> learned_from -> Task
-5. Save Changelog: `PARA/1-4-Fleeting-Archives/KG-Changelog/YYYY-MM-DD.md`
+5. Save Changelog: `PARA/1-4-Fleeting-Archive/KG-Changelog/YYYY-MM-DD-session_summary.md` DO NOT MAKE NEW FOLDER. YOU ALREADY HAVE THE RIGHT FOLDER FOR THIS. 
 6. Return change summary
 
 ---

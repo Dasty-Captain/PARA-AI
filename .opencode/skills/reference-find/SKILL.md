@@ -35,7 +35,7 @@ If inputs are missing, ask only for the minimum needed values.
 2. Build search queries per claim using synonyms and counter-terms.
 3. Retrieve candidate sources from diverse, credible domains.
 4. Validate each source for authority, recency, and methodological quality.
-5. Extract precise citation context (page/section/paragraph when available).
+5. Extract verbatim evidence with precise locators: section/page, paragraph reference, exact supporting sentence, and line range when available.
 6. Rank sources by tier:
    - Tier 1: Primary/official/high-authority evidence
    - Tier 2: Strong secondary synthesis with clear methodology
@@ -62,6 +62,11 @@ For each reference, include:
 - Publication date
 - Direct URL
 - Exact location details (page/section/paragraph if available)
+- Exact supporting sentence (verbatim quote)
+- Paragraph reference (index or anchor)
+- Line reference (line number/range when source supports it)
+
+Required fields: `claim_id`, `source_url`, `page_or_section`, `paragraph_ref`, `sentence_quote`, `line_ref`, `stance (support|contradict)`, `confidence`.
 
 ## Guardrails
 
