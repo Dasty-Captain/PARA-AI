@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "f88d65e3bc501512",
+    "type": "split",
+    "children": [
+      {
+        "id": "12509c4188773916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa9a5a05e9a98f46",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3-Permanent-Note/KJB.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "KJB"
+            }
+          },
+          {
+            "id": "7bb0bbbc6b3eda70",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "AI-workflow.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "AI-workflow"
+            }
+          },
+          {
+            "id": "3b9f3086435b6b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Quick-Note/AI workflow - planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI workflow - planning"
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2bd15c9a7c32f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5020dfbc87d46f9e",
+        "type": "tabs",
+        "dimension": 63.76811594202898,
+        "children": [
+          {
+            "id": "9ca450b378c46030",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f91f896695e99fbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8a136bf4371d8134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "39ebdf8b95c44b38",
+        "type": "tabs",
+        "dimension": 36.231884057971016,
+        "children": [
+          {
+            "id": "e6ea55b5163b96ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "4da3611f35872084",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9feeeb474ff0333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20787f2888fb9013",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-Permanent-Note/His Story.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for His Story"
+            }
+          },
+          {
+            "id": "5830b3dc61db21a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-Permanent-Note/His Story.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from His Story"
+            }
+          },
+          {
+            "id": "1fe48af905d63a67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "934b595f06b11105",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "83efc67eb724e205",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "0758a64a5cb908e6",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "7bb0bbbc6b3eda70",
+  "lastOpenFiles": [
+    "4-Quick-Note/AI workflow - planning.md",
+    "AI-workflow.md",
+    "3-Permanent-Note/His Story.canvas",
+    "3-Permanent-Note/KJB.pdf",
+    "4-Quick-Note/Untitled.base",
+    "2-Literature-Note/Alex Hormozi's Sales Strategy.md",
+    "2-Literature-Note/CBT_Market Landscape & product roadmap.md",
+    "PARA/1-4-Fleeting-Archives/KG-Changelog/2026-02-22.md",
+    "opencode.jsonc",
+    "1-2-Fleeting-Area/Personal Growth/회복과 타협하지 않는 날을 기대하며.md",
+    "1-2-Fleeting-Area/Team-Execution-and-OKR/실행에 관하여.md",
+    "1-2-Fleeting-Area/Personal Growth/대한민국 Revival Plan, 제조업 AI에 대하여.md",
+    "1-1-Fleeting-Project/AI-Native-Workflow/Notion vs Obsidian Dual-Brain Workflow.md",
+    "1-1-Fleeting-Project/AI-Native-Workflow/Nexus.md",
+    "1-2-Fleeting-Area/Management-Skills/Motivaiton Speech.md",
+    "1-2-Fleeting-Area/CEO-Growth/Lesson-Learn.md",
+    "1-3-Fleeting-Resource/PKM/About uncertainty.md",
+    "1-3-Fleeting-Resource/PKM",
+    "1-2-Fleeting-Area/Personal Growth/2025 Recap & 2026 Replan.md",
+    "1-2-Fleeting-Area/Faith/02.08 기도.md",
+    "4-Quick-Note/Skill 스킬 병합, 제거, 생성하기 - 이후 Agent Subagent markdown 변경하기.md",
+    "Skill 스킬 병합, 제거, 생성하기 - 이후 Agent Subagent markdown 변경하기.md",
+    "1-2-Fleeting-Area/Faith",
+    "1-2-Fleeting-Area/Personal Growth",
+    "1-1-Fleeting-Project/Untitled",
+    "1-4-Fleeting-Archieve/KG-Changelog/2026-02-21.md",
+    "PARA/1-4-Fleeting-Archives/KG-Changelog/2026-02-19.md",
+    "PARA/1-4-Fleeting-Archives/KG-Changelog",
+    "PARA/1-4-Fleeting-Archives",
+    "PARA",
+    "1-4-Fleeting-Archieve/AI/2026-02-19-agent-workflow-capture.md",
+    "1-4-Fleeting-Archieve/AI/2026-02-19-BD-Action-Plan.md",
+    "4-Quick-Note/실행에 관하여.md",
+    "Pasted image 20260219231806.png",
+    "4-Quick-Note/Notion vs Obsidian Dual-Brain Workflow.md",
+    "1-4-Fleeting-Archieve/Context Engineer 효율화.md",
+    "4-Quick-Note/02.08 기도.md",
+    "Pasted image 20260218003121.png",
+    "Pasted image 20260218003121 2.png",
+    "Pasted image 20260218003122 1.png",
+    "Pasted image 20260218003122.png",
+    "Pasted image 20260218003121 3.png",
+    "Pasted image 20260218003121 1.png"
+  ]
+}

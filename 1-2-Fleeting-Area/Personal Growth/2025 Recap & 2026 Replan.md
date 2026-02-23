@@ -1,0 +1,68 @@
+1. How I spent a year: retrospective of 2025
+	- 2025 was empty, wandering, painful year. 
+	- I lost many things: faith, purity, passion, fire, people etc.
+	- Everything I needed and focused was her, and she has gone just as like vape. 
+	- It's time for recover. I need to redeem things I lost. 
+	- I wasn't able to keep anything in my hands, even for things that I treated like treasure. I lost everything.
+	- I couldn't be great person, couldn't grow up in faith, only lost. 
+	- Resentful, bitter, and only bloody mind.
+	- '25 lessons: 
+		- relationship affects more than I thought
+		- there's always a way
+		- need to keep mind and purposed mind first
+		- it's always easy to get lost
+		- anything except God is empty
+		- always stick to the scriptures
+		- I'm not kind at all & don't try to be kind.
+		- time is more valuable than I thought
+		- time flies
+		- we are already on high standard from global POV
+		- never trust human
+		- it's always worth trying hard and doing the best
+		- even though everything looks dirty
+		- there's always novel minds
+		- need to desperately defy gravity all the time
+		- responsibility matters: it's meaningful
+		- mindset is everything
+2. How will you spend 2026
+	- It's time for recovery. 
+	- Restore: 
+		- faith
+		- his words
+		- his heart
+		- passion
+		- purity
+		- intelligence
+		- people
+		- relationship
+		- lights
+		- diligence
+		- resilience
+		- desperation
+		- beauty
+		- honor
+		- sacrifice
+		- discipline
+	- **Being a sidekick**: it has been my long, long dream. I desired to be a hero for a long time. It will be eventually achievable this year. 
+		- Personality: 
+			- Resilience
+			- Competitive
+			- Charismatic
+			- Brave
+			- Disciplined
+			- Noble & Honorable
+			- Extraordinary
+			- Brutal
+		- Story
+			- Villain
+			- Discipline & Growth
+			- Overcoming
+			- Noble Sacrifice
+		- Friends
+	- I want to build "story" this year. Starting next chapter in this story, this year.
+	- I want to start rescuing people who suffer from loneliness and emptiness. It makes my heart beating. 
+3. Who you want to be: personality, achievement, etc.
+4. How will you build company
+	- Company follows CEO's standard: I need to raise the bar, and I will need to brutally prioritize items, then move forward. 
+5. Goal in faith
+6. Problem/Solution: first principles thinking

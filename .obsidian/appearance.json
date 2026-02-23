@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "showRibbon": false,
+  "translucency": false,
+  "theme": "moonstone",
+  "interfaceFontFamily": "Pretendard Variable",
+  "textFontFamily": "Pretendard Variable",
+  "monospaceFontFamily": "Pretendard Variable",
+  "baseFontSize": 19
+}

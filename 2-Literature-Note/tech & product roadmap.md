@@ -1,0 +1,24 @@
+- **Form**
+	- Goal
+	- Target and End-User
+	- Problem
+	- Solution 
+	- Value proposition rationale 
+	- Project milestones
+- **Archion**: 
+	- Asset search and matching with 3D models 
+	- 2D drawing processing
+	- Ontology powered agent V1 with 3D layout and FF&E placement
+- **PLM and Asset Library Agent**:
+	- **Asset search and matching** with fragmented CAD models
+	- **Ontology building**: build fast, efficient domain specific knowledge graph system. 
+	- Seamless integration into PLM system with plug-in(or their ERP system)
+- **CAD AI**: 
+	- **Starting scaling law**, with perfectly matching the same tendency as OpenAI. 
+	- **Data Pipeline**: building cost-efficient, high quality synthetic data system for domain specific models.(**left**: CAD model -> **right**: code base and knowledge graph)
+	- **Industry specific CAD foundation models**: parametric reasoning,  auto-constraints, tolerance, DFM/A, topology optimization, reverse engineering, simulation considered optimization etc. 
+	- **Ontology powered agent system**: orchestrating multiple tools and foundation models to make tasks done. 
+- **CAE AI**: 
+	- **Pre-processing for simulation**: topology optimization, merging hierarchy etc.
+	- **Simulation Powered Optimization**: analyzing the simulation result, and optimize the design based on its analysis. 
+	- **PLM management, ECO/ECN**: project management based on its engineering change. 
