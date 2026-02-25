@@ -21,4 +21,4 @@ tags:
 10. (kanban + OpenCode) Iterate until the task is done
 
 
-Connecting document: [[AI-workflow]]
+Connecting document: [[Kanban]]

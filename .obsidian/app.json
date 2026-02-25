@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "1-4-Fleeting-Archieve/PDF",
   "newFileLocation": "folder",
-  "newFileFolderPath": "4-Quick-Note"
+  "newFileFolderPath": "4-Quick-Note",
+  "showInlineTitle": true
 }

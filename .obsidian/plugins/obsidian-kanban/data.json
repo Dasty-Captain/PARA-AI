@@ -1,0 +1,4 @@
+{
+  "show-checkboxes": false,
+  "new-note-template": "1-4-Fleeting-Archieve/template/{{date}}-{{title}}.md"
+}

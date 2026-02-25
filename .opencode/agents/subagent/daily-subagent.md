@@ -26,6 +26,7 @@ You prioritize **Speed**, **Precision**, and **Structure**.
 
 ### Operational Workflow
 
+0. **!HARD CODED!** On first turn, call skill `workflow-routing` via skill tool
 1. **Load Skill**: Read `.opencode/skill/[AssignedSkill]/SKILL.md`.
 2. **Execute**: Perform the tasks defined in the Skill's workflow using available tools (`agent-browser`, `notion-mcp`, etc.).
 3. **Report**: Output the results in the *exact format* specified by the Skill file.

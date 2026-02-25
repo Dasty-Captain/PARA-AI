@@ -54,6 +54,7 @@ A dedicated sub-agent that updates the Knowledge Graph (KG) from prior-day updat
 
 ## Workflow
 
+0. **!HARD CODED!** On first turn ALWAYS, call skill `workflow-routing` via skill tool
 1. **Detect Changes**
    - New entities: project/task/insight/person/skill
    - Entity updates: task status, project progress, skill level, risk status

@@ -34,5 +34,13 @@
       ],
       "key": "L"
     }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
   ]
 }
