@@ -1,7 +1,13 @@
 {
   "settingsVersion": "1.14.0",
-  "highlightColor": "#ffd700",
-  "sidebarPosition": "right",
+  "collections": {},
+  "customColorNames": {
+    "yellow": "",
+    "red": "",
+    "teal": "",
+    "blue": "",
+    "green": ""
+  },
   "highlights": {
     "2-Literature-Note/삶의 의미.md": [
       {
@@ -547,15 +553,15 @@
         "type": "highlight"
       }
     ],
-    "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md": [
+    "1-1-Fleeting-Project/Product Roadmap final draft.md": [
       {
-        "id": "sr54az8kb",
+        "id": "v6h4h06l2",
         "text": "[^1]it is **commercial conversion math under execution load**.",
         "tags": [],
         "line": 35,
         "startOffset": 3494,
         "endOffset": 3560,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927341112,
@@ -563,13 +569,13 @@
         "type": "highlight"
       },
       {
-        "id": "cpudvypvh",
+        "id": "d2x6woxos",
         "text": "[^2]move from claim-based roadmap to artifact-based proof (signed terms, pipeline stages, cohort outcomes, unit economics sensitivity).",
         "tags": [],
         "line": 37,
         "startOffset": 3736,
         "endOffset": 3875,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927341354,
@@ -577,13 +583,13 @@
         "type": "highlight"
       },
       {
-        "id": "3hrjqv4d6",
+        "id": "d1b2rswmq",
         "text": "Signed pilot contracts + conversion clauses (especially HD Hyundai/MHI/Volvo).",
         "tags": [],
         "line": 40,
         "startOffset": 3931,
         "endOffset": 4013,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927341549,
@@ -591,13 +597,13 @@
         "type": "highlight"
       },
       {
-        "id": "7ayl9klh2",
+        "id": "b1yss46hc",
         "text": "Actual pipeline report with stage probabilities and expected close dates.",
         "tags": [],
         "line": 41,
         "startOffset": 4016,
         "endOffset": 4093,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927340634,
@@ -605,13 +611,13 @@
         "type": "highlight"
       },
       {
-        "id": "d4ezu51l6",
+        "id": "pt61iqh1n",
         "text": "Where are you confusing ambition with evidence?",
         "tags": [],
         "line": 49,
         "startOffset": 4781,
         "endOffset": 4832,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "Need to list up all confidence scores for projects."
@@ -621,13 +627,13 @@
         "type": "highlight"
       },
       {
-        "id": "1bjd62j69",
+        "id": "tusbhc4o7",
         "text": "What is your downside case if P&P contributes only half of expected pipeline?",
         "tags": [],
         "line": 52,
         "startOffset": 5058,
         "endOffset": 5139,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "We'll have another consulting firms globally. They focus on Korea as a PLM-specific consulting firm."
@@ -637,13 +643,13 @@
         "type": "highlight"
       },
       {
-        "id": "ji0z5admj",
+        "id": "i6cbg3yj6",
         "text": "domain-specific consulting firm's power",
         "tags": [],
         "line": 69,
         "startOffset": 5594,
         "endOffset": 5637,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927341212,
@@ -651,13 +657,13 @@
         "type": "highlight"
       },
       {
-        "id": "qa36khd33",
+        "id": "opqiqz4cl",
         "text": "FOMO with mega trend",
         "tags": [],
         "line": 70,
         "startOffset": 5856,
         "endOffset": 5880,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927341474,
@@ -665,13 +671,13 @@
         "type": "highlight"
       },
       {
-        "id": "u34im4pre",
+        "id": "uzdwkxkid",
         "text": "investors doesn't believe the claim, but numbers.",
         "tags": [],
         "line": 72,
         "startOffset": 6173,
         "endOffset": 6226,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/Product Roadmap final draft.md",
+        "filePath": "1-1-Fleeting-Project/Product Roadmap final draft.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771927340791,
@@ -679,15 +685,15 @@
         "type": "highlight"
       }
     ],
-    "1-1-Fleeting-Project/⍺CAD Q1/aCAD find cost-efficient partners.md": [
+    "1-1-Fleeting-Project/aCAD find cost-efficient partners.md": [
       {
-        "id": "osgk3wp3a",
+        "id": "olyn7iexw",
         "text": "minimum acceptable bar for data",
         "tags": [],
         "line": 177,
         "startOffset": 14236,
         "endOffset": 14271,
-        "filePath": "1-1-Fleeting-Project/⍺CAD Q1/aCAD find cost-efficient partners.md",
+        "filePath": "1-1-Fleeting-Project/aCAD find cost-efficient partners.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771933970572,
@@ -695,59 +701,15 @@
         "type": "highlight"
       }
     ],
-    "1-2-Fleeting-Area/Team-Execution-and-OKR/OKR Risk Assessment.md": [
+    "1-2-Fleeting-Area/CTO R&R feedback.md": [
       {
-        "id": "bxdqoepv0",
-        "text": "monthly revenue 60,000,000 KRW",
-        "tags": [],
-        "line": 38,
-        "startOffset": 2489,
-        "endOffset": 2523,
-        "filePath": "1-2-Fleeting-Area/Team-Execution-and-OKR/OKR Risk Assessment.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1772011629696,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "tbuglmvej",
-        "text": "some team KRs have quantified progress",
-        "tags": [],
-        "line": 40,
-        "startOffset": 2743,
-        "endOffset": 2785,
-        "filePath": "1-2-Fleeting-Area/Team-Execution-and-OKR/OKR Risk Assessment.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1772011629950,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "vmj6ay836",
-        "text": "while several revenue/fundraising KRs show 0/blank “Current”",
-        "tags": [],
-        "line": 40,
-        "startOffset": 2841,
-        "endOffset": 2905,
-        "filePath": "1-2-Fleeting-Area/Team-Execution-and-OKR/OKR Risk Assessment.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1772011630048,
-        "isNativeComment": false,
-        "type": "highlight"
-      }
-    ],
-    "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md": [
-      {
-        "id": "6r1huzy0o",
+        "id": "5jbk7vwcr",
         "text": "current implied R&R",
         "tags": [],
         "line": 11,
         "startOffset": 737,
         "endOffset": 760,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614679,
@@ -755,13 +717,13 @@
         "type": "highlight"
       },
       {
-        "id": "tfs0wqv6t",
+        "id": "funp53vh0",
         "text": "(a) priority clarity, (b) interface decisions, (c) rework from late discovery, and (d) context switching.",
         "tags": [],
         "line": 71,
         "startOffset": 6475,
         "endOffset": 6584,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614417,
@@ -769,13 +731,13 @@
         "type": "highlight"
       },
       {
-        "id": "ghr8tro41",
+        "id": "swyoxd709",
         "text": "CTO-as-IC on multiple projects creates a single point of failure + amplifies thrash; CTO-as-multiplier reduces rework and protects focus.",
         "tags": [],
         "line": 72,
         "startOffset": 6587,
         "endOffset": 6728,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614529,
@@ -783,13 +745,13 @@
         "type": "highlight"
       },
       {
-        "id": "2m6wtq44s",
+        "id": "1f4tvy3yj",
         "text": "TOP 0.1% Core Value",
         "tags": [],
         "line": 113,
         "startOffset": 10239,
         "endOffset": 10262,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614181,
@@ -797,13 +759,13 @@
         "type": "highlight"
       },
       {
-        "id": "5any5hy3k",
+        "id": "tgk7o5bdw",
         "text": "keep following-up and growth management",
         "tags": [],
         "line": 113,
         "startOffset": 10283,
         "endOffset": 10326,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614225,
@@ -811,13 +773,13 @@
         "type": "highlight"
       },
       {
-        "id": "585in5hcz",
+        "id": "j2huqr9md",
         "text": "(a) priority clarity, (b) interface decisions, (c) rework from late discovery, and (d) context switching.",
         "tags": [],
         "line": 117,
         "startOffset": 10749,
         "endOffset": 10858,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614691,
@@ -825,70 +787,67 @@
         "type": "highlight"
       },
       {
-        "id": "k5tqo8ajt",
+        "id": "63q3h555d",
         "text": "CTO-as-IC on multiple projects creates a single point of failure + amplifies thrash; CTO-as-multiplier reduces rework and protects focus.",
         "tags": [],
         "line": 118,
         "startOffset": 10863,
         "endOffset": 11004,
-        "filePath": "1-2-Fleeting-Area/Management-Skills/CTO R&R feedback.md",
+        "filePath": "1-2-Fleeting-Area/CTO R&R feedback.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1771923614805,
         "isNativeComment": false,
         "type": "highlight"
       }
+    ],
+    "1-2-Fleeting-Area/OKR Risk Assessment.md": [
+      {
+        "id": "n01k6pr0e",
+        "text": "monthly revenue 60,000,000 KRW",
+        "tags": [],
+        "line": 38,
+        "startOffset": 2489,
+        "endOffset": 2523,
+        "filePath": "1-2-Fleeting-Area/OKR Risk Assessment.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1772011629696,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "6erbu3ya7",
+        "text": "some team KRs have quantified progress",
+        "tags": [],
+        "line": 40,
+        "startOffset": 2743,
+        "endOffset": 2785,
+        "filePath": "1-2-Fleeting-Area/OKR Risk Assessment.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1772011629950,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "w1t2n0ees",
+        "text": "while several revenue/fundraising KRs show 0/blank “Current”",
+        "tags": [],
+        "line": 40,
+        "startOffset": 2841,
+        "endOffset": 2905,
+        "filePath": "1-2-Fleeting-Area/OKR Risk Assessment.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1772011630048,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
     ]
   },
-  "collections": {},
-  "groupingMode": "none",
-  "taskSecondaryGroupingMode": "none",
-  "sortMode": "none",
-  "tabSettings": {},
-  "showFilenames": true,
-  "showTimestamps": true,
-  "showHighlightActions": true,
-  "showToolbar": true,
-  "autoToggleFold": false,
-  "useInlineFootnotes": false,
-  "selectTextOnCommentClick": false,
-  "excludeExcalidraw": true,
-  "excludedFiles": [],
-  "fileFilters": [],
-  "fileFilterMode": "exclude",
-  "dateFormat": "YYYY-MM-DD HH:mm",
-  "minimumCharacterCount": 0,
-  "highlightFontSize": 11,
-  "detailsFontSize": 11,
-  "commentFontSize": 11,
-  "highlightFontWeight": 400,
-  "taskFontWeight": 400,
-  "detectHtmlComments": false,
-  "detectAdjacentNativeComments": true,
-  "customPatterns": [],
-  "customColors": {
-    "yellow": "#ffd700",
-    "red": "#ff6b6b",
-    "teal": "#4ecdc4",
-    "blue": "#45b7d1",
-    "green": "#96ceb4"
-  },
-  "customColorNames": {
-    "yellow": "",
-    "red": "",
-    "teal": "",
-    "blue": "",
-    "green": ""
-  },
-  "showCurrentNoteTab": true,
-  "showAllNotesTab": true,
-  "showCollectionsTab": true,
-  "showTasksTab": false,
-  "showCompletedTasks": true,
-  "showTaskContext": true,
-  "taskDateFormat": "YYYY-MM-DD",
-  "showCurrentNoteTasksSection": true,
-  "showOnlyCurrentNoteTasks": false,
-  "displayModes": [],
-  "currentDisplayModeId": null
+  "backupReason": "external-sync",
+  "originalTimestamp": "2026-03-01T15-01-28-422Z",
+  "backupCreatedAt": 1772377288423,
+  "retentionManaged": true
 }
